@@ -22,19 +22,19 @@
     "url": "https://prodotti.prezzo.it/",
     "icon": "https://favicons.githubusercontent.com/prodotti.prezzo.it",
     "slug": "prodotti",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2690,
-    "timeDay": 2690,
-    "timeWeek": 2690,
-    "timeMonth": 2690,
-    "timeYear": 2690,
+    "status": "up",
+    "uptime": "97.44%",
+    "uptimeDay": "97.44%",
+    "uptimeWeek": "97.44%",
+    "uptimeMonth": "97.44%",
+    "uptimeYear": "97.44%",
+    "time": 2641,
+    "timeDay": 2641,
+    "timeWeek": 2641,
+    "timeMonth": 2641,
+    "timeYear": 2641,
     "dailyMinutesDown": {
-      "2021-01-07": 0
+      "2021-01-07": 18
     }
   }
 ]
