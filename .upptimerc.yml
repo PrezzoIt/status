@@ -5,9 +5,9 @@ repo: status # Your GitHub repository name
 # Add your sites here
 sites:
   - name: prezzo.it
-    url: https://prezzo.it
+    url: https://prezzo.it/
   - name: Prodotti
-    url: https://prodotti.prezzo.it
+    url: https://prodotti.prezzo.it/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
