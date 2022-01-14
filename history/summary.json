@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
-    "time": 1737,
-    "timeDay": 3196,
-    "timeWeek": 2411,
-    "timeMonth": 2239,
-    "timeYear": 1733,
-    "dailyMinutesDown": {
-      "2021-01-14": 779
-    }
+    "uptimeYear": "99.86%",
+    "time": 1739,
+    "timeDay": 2400,
+    "timeWeek": 2390,
+    "timeMonth": 2254,
+    "timeYear": 1738,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prodotti",
@@ -29,14 +27,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
-    "time": 1319,
-    "timeDay": 1572,
-    "timeWeek": 1538,
-    "timeMonth": 1501,
-    "timeYear": 1305,
-    "dailyMinutesDown": {
-      "2021-01-14": 779
-    }
+    "uptimeYear": "99.86%",
+    "time": 1320,
+    "timeDay": 1561,
+    "timeWeek": 1541,
+    "timeMonth": 1508,
+    "timeYear": 1307,
+    "dailyMinutesDown": {}
   }
 ]
