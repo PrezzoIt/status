@@ -4,18 +4,20 @@
     "url": "https://prezzo.it/",
     "icon": "https://favicons.githubusercontent.com/prezzo.it",
     "slug": "prezzo-it",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1779,
-    "timeDay": 2758,
-    "timeWeek": 2492,
-    "timeMonth": 2339,
-    "timeYear": 1829,
-    "dailyMinutesDown": {}
+    "time": 1778,
+    "timeDay": 2037,
+    "timeWeek": 2345,
+    "timeMonth": 2307,
+    "timeYear": 1827,
+    "dailyMinutesDown": {
+      "2022-02-12": 0
+    }
   },
   {
     "name": "Prodotti",
