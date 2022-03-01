@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1798,
-    "timeDay": 2557,
-    "timeWeek": 2237,
-    "timeMonth": 2305,
-    "timeYear": 1875,
+    "timeDay": 1806,
+    "timeWeek": 2254,
+    "timeMonth": 2287,
+    "timeYear": 1877,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/prodotti.prezzo.it",
     "slug": "prodotti",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1346,
-    "timeDay": 1716,
-    "timeWeek": 1515,
-    "timeMonth": 1597,
-    "timeYear": 1359,
+    "timeDay": 1382,
+    "timeWeek": 1549,
+    "timeMonth": 1602,
+    "timeYear": 1360,
     "dailyMinutesDown": {}
   }
 ]
