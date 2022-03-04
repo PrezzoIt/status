@@ -4,9 +4,9 @@
     "url": "https://prezzo.it/",
     "icon": "https://favicons.githubusercontent.com/prezzo.it",
     "slug": "prezzo-it",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2318,
     "timeMonth": 2283,
     "timeYear": 1888,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-04": 0
+    }
   },
   {
     "name": "Prodotti",
