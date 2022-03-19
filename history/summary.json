@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/prezzo.it",
     "slug": "prezzo-it",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1819,
-    "timeDay": 2449,
-    "timeWeek": 2240,
-    "timeMonth": 2265,
-    "timeYear": 1934,
+    "timeDay": 1798,
+    "timeWeek": 2227,
+    "timeMonth": 2249,
+    "timeYear": 1936,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1359,
-    "timeDay": 1654,
-    "timeWeek": 1563,
-    "timeMonth": 1598,
-    "timeYear": 1394,
+    "timeDay": 1305,
+    "timeWeek": 1539,
+    "timeMonth": 1587,
+    "timeYear": 1395,
     "dailyMinutesDown": {}
   }
 ]
