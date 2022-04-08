@@ -4,19 +4,19 @@
     "url": "https://prezzo.it/",
     "icon": "https://favicons.githubusercontent.com/prezzo.it",
     "slug": "prezzo-it",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 1841,
-    "timeDay": 2338,
-    "timeWeek": 2331,
-    "timeMonth": 2289,
+    "timeDay": 2225,
+    "timeWeek": 2303,
+    "timeMonth": 2283,
     "timeYear": 1989,
     "dailyMinutesDown": {
-      "2022-04-08": 19
+      "2022-04-08": 41
     }
   },
   {
