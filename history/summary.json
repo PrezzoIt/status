@@ -4,18 +4,19 @@
     "url": "https://prezzo.it/",
     "icon": "https://favicons.githubusercontent.com/prezzo.it",
     "slug": "prezzo-it",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1877,
+    "time": 1879,
     "timeDay": 1784,
     "timeWeek": 2024,
     "timeMonth": 2124,
     "timeYear": 2063,
     "dailyMinutesDown": {
+      "2022-05-15": 1,
       "2022-04-08": 41
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://prodotti.prezzo.it/",
     "icon": "https://favicons.githubusercontent.com/prodotti.prezzo.it",
     "slug": "prodotti",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1398,
+    "time": 1399,
     "timeDay": 1332,
     "timeWeek": 1393,
     "timeMonth": 1452,
     "timeYear": 1492,
     "dailyMinutesDown": {
+      "2022-05-15": 0,
       "2022-04-08": 18
     }
   }
