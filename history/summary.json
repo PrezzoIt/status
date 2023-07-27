@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
-    "time": 1745,
-    "timeDay": 1024,
-    "timeWeek": 821,
+    "time": 1744,
+    "timeDay": 1162,
+    "timeWeek": 860,
     "timeMonth": 857,
-    "timeYear": 1450,
+    "timeYear": 1446,
     "dailyMinutesDown": {
       "2023-01-25": 33,
       "2022-12-18": 560,
@@ -31,8 +31,7 @@
       "2022-08-10": 70,
       "2022-08-05": 18,
       "2022-08-02": 87,
-      "2022-08-01": 32,
-      "2022-07-27": 66
+      "2022-08-01": 32
     }
   },
   {
@@ -41,18 +40,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/prodotti.prezzo.it.ico",
     "slug": "prodotti",
     "status": "down",
-    "uptime": "76.59%",
+    "uptime": "76.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "40.66%",
-    "time": 1574,
+    "uptimeYear": "40.38%",
+    "time": 1575,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1619,
+    "timeYear": 1618,
     "dailyMinutesDown": {
-      "2023-07-26": 58,
+      "2023-07-27": 52,
+      "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
@@ -279,8 +279,7 @@
       "2022-08-12": 19,
       "2022-08-10": 21,
       "2022-08-05": 16,
-      "2022-08-01": 31,
-      "2022-07-27": 64
+      "2022-08-01": 31
     }
   }
 ]
