@@ -10,19 +10,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.44%",
-    "time": 1333,
-    "timeDay": 694,
-    "timeWeek": 925,
-    "timeMonth": 886,
-    "timeYear": 1087,
+    "time": 1331,
+    "timeDay": 979,
+    "timeWeek": 963,
+    "timeMonth": 887,
+    "timeYear": 1082,
     "dailyMinutesDown": {
       "2023-01-25": 33,
       "2022-12-18": 560,
       "2022-12-17": 1440,
       "2022-12-16": 859,
       "2022-12-01": 20,
-      "2022-11-11": 35,
-      "2022-10-25": 19
+      "2022-11-11": 35
     }
   },
   {
@@ -31,18 +30,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/prodotti.prezzo.it.ico",
     "slug": "prodotti",
     "status": "down",
-    "uptime": "69.83%",
+    "uptime": "69.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "16.05%",
-    "time": 1612,
+    "uptimeYear": "15.78%",
+    "time": 1613,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1610,
+    "timeYear": 1608,
     "dailyMinutesDown": {
-      "2023-10-24": 46,
+      "2023-10-25": 45,
+      "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
@@ -351,8 +351,7 @@
       "2022-12-18": 560,
       "2022-12-17": 1440,
       "2022-12-16": 858,
-      "2022-11-11": 35,
-      "2022-10-25": 19
+      "2022-11-11": 35
     }
   }
 ]
