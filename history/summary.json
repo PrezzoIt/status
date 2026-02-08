@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 894,
-    "timeDay": 874,
-    "timeWeek": 963,
-    "timeMonth": 960,
-    "timeYear": 891,
+    "time": 895,
+    "timeDay": 1073,
+    "timeWeek": 997,
+    "timeMonth": 957,
+    "timeYear": 892,
     "dailyMinutesDown": {}
   },
   {
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prodotti.prezzo.it.ico",
     "slug": "prodotti",
     "status": "down",
-    "uptime": "38.35%",
+    "uptime": "38.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-07": 100,
+      "2026-02-08": 127,
+      "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
@@ -397,8 +398,7 @@
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
-      "2025-02-09": 1440,
-      "2025-02-08": 1440
+      "2025-02-09": 1440
     }
   }
 ]
